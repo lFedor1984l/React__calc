@@ -1,0 +1,18 @@
+.wrapper__input {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+
+.input__box {
+    padding: 15px;
+}
+
+.input__result {
+    font-size: 24px;
+}
+
+.input__enter {
+    font-size: 20px;
+}
